@@ -1,6 +1,2 @@
 dasd
-<<<<<<< HEAD
-d sdada124
-=======
 d sdada12345
->>>>>>> 27189066c93074d41e5c020edaae4e9e4415058b
